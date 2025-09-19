@@ -1,0 +1,5 @@
+name: PaperDatapackTest
+version: '1.0.0'
+main: com.github.azerl0.paperDatapackTest.PaperDatapackTest
+api-version: '1.21'
+authors: [ AZer0_ ]
