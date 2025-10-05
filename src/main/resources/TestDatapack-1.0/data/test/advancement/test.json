@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:paper"
+    },
+    "title": "Test advancement!!",
+    "description": "Success",
+    "frame": "task"
+  },
+  "criteria": {
+    "tri": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tri"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
